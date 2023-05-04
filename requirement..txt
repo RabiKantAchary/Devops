@@ -1,2 +1,1 @@
-# Devops
-python
+Flask==1.0
